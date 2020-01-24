@@ -1,0 +1,29 @@
+.header {
+    height: 80px;
+    background-color: cyan;
+    border: solid 1px red;
+}
+
+.navigation {
+    height: 50px;
+    background-color: darkgoldenrod;
+    border: solid 1px red;
+}
+
+.banner {
+    height: 450px;
+    background-color: deepskyblue;
+    border: solid 2px darkmagenta;
+}
+
+.quickpost {
+    height: 250px;
+    background-color: firebrick;
+    border: solid 3px blanchedalmond;
+}
+
+.article {
+    height: 780px;
+    background-color: forestgreen;
+    border: solid 2px yellow;
+}
